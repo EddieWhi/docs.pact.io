@@ -33,7 +33,7 @@ Notifying the Pact Broker of a deployment looks like this:
 
 We're just using `production` in our example, but it's recommended to do exactly the same thing with all your pre-prod environments too.
 
-Out matrix now looks like this:
+Our matrix now looks like this:
 
 | Foo version \(consumer\) | Bar version \(provider\) | Verification success? |
 | :--- | :--- | :--- |
